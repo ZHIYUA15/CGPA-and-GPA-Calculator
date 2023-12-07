@@ -1,0 +1,70 @@
+1st and 2nd yr:
+[
+    {"grade": "B+", "units": 4.3},
+    {"grade": "B", "units": 4.0},
+    {"grade": "A-", "units": 3.0},
+    {"grade": "B", "units": 3.5},
+    {"grade": "A-", "units": 3.8},
+    {"grade": "B", "units": 3.8},
+    {"grade": "B", "units": 4.3},
+    {"grade": "A+", "units": 3.8},
+    {"grade": "B-", "units": 3.5},
+    {"grade": "B-", "units": 3.5},
+    {"grade": "B-", "units": 3.5},
+    {"grade": "B+", "units": 3.0},
+    {"grade": "C+", "units": 3.5},
+    {"grade": "C", "units": 4.8},
+    {"grade": "C+", "units": 4.3},
+    {"grade": "B-", "units": 3.8},
+    {"grade": "B-", "units": 3.0},
+    {"grade": "C", "units": 3.0},
+    {"grade": "C+", "units": 3.5},
+    {"grade": "B+", "units": 4.5},
+    {"grade": "C", "units": 4.8},
+    {"grade": "B-", "units": 4.3},
+    {"grade": "B+", "units": 3.8},
+    {"grade": "B+", "units": 3.5},
+    {"grade": "C+", "units": 3.8},
+    {"grade": "B+", "units": 3.0},
+    {"grade": "A-", "units": 3.0},
+    {"grade": "B", "units": 3.8},
+    {"grade": "B-", "units": 3.0}
+]
+
+3rd yr fall:
+[
+    {"grade": "B", "units": 3.8},
+    {"grade": "B-", "units": 4.3},
+    {"grade": "B+", "units": 3.0},
+    {"grade": "A-", "units": 3.8},
+    {"grade": "B+", "units": 3.8},
+    {"grade": "B", "units": 3.5},
+]
+
+3rd yr winter:
+[
+    {"grade": "B", "units": 3.5},
+    {"grade": "B", "units": 4.5},
+    {"grade": "B", "units": 3.8},
+    {"grade": "B+", "units": 3.0},
+    {"grade": "B", "units": 3.8},
+    {"grade": "B+", "units": 3.0},
+]
+
+4th yr fall:
+[
+    {"grade": "B", "units": 3.5},
+    {"grade": "B", "units": 4.5},
+    {"grade": "B", "units": 3.8},
+    {"grade": "B", "units": 3.0},
+    {"grade": "B", "units": 3.8},
+]
+
+4th yr winter:
+[
+    {"grade": "B-", "units": 3.5},
+    {"grade": "B", "units": 4.5},
+    {"grade": "B", "units": 3.8},
+    {"grade": "B", "units": 3.0},
+    {"grade": "B", "units": 3.8},
+]
